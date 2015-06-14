@@ -7,6 +7,8 @@ output:
 
 This project aims to analyze fitness step data using knitr as a medium to share the process and results.
 
+(note: this is a resubmission to the course - i previously did not complete peer assessment 2)
+
 
 ## Loading and preprocessing the data
 

@@ -2,6 +2,8 @@
 
 This project aims to analyze fitness step data using knitr as a medium to share the process and results.
 
+(note: this is a resubmission to the course - i previously did not complete peer assessment 2)
+
 
 ## Loading and preprocessing the data
 
@@ -10,6 +12,10 @@ This project aims to analyze fitness step data using knitr as a medium to share 
 
 ```r
 library(ggplot2)
+```
+
+```
+## Warning: package 'ggplot2' was built under R version 3.1.3
 ```
 
 *The activity zip file has been unzipped to activity.csv in the working directory.*
